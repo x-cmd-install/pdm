@@ -1,0 +1,58 @@
+about:
+  description: A modern Python package and dependency manager supporting the latest PEP standards
+  license: MIT
+  homepage: https://pdm-project.org
+  head: db7cc17
+  archived: false
+  latestVersion: 2.28.2
+  collectedAt: 2026-08-29T07:29:07Z
+timeline:
+  created: 2019-12-27
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-18
+popularity:
+  star: 8671
+  watcher: 36
+  fork: 487
+  release: 249
+  contributor: 258
+  pullRequest: 132
+  issue: 1992
+language:
+  Python: 1506653
+  Shell: 16972
+  PowerShell: 12332
+totalLine: 1535957
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 26
+    openPR: 3
+    closedIssue: 5
+    openIssue: 1
+    commit: 30
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 48
+    openPR: 3
+    closedIssue: 10
+    openIssue: 3
+    commit: 53
+  last180d:
+    since: 2026-03-02
+    release: 7
+    mergedPR: 72
+    openPR: 5
+    closedIssue: 32
+    openIssue: 5
+    commit: 95
+  last360d:
+    since: 2025-09-03
+    release: 14
+    mergedPR: 124
+    openPR: 5
+    closedIssue: 73
+    openIssue: 9
+    commit: 166
