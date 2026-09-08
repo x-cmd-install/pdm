@@ -5,7 +5,7 @@ about:
   head: f1bb362
   archived: false
   latestVersion: "2.29.0"
-  collectedAt: 2026-09-08T01:26:24Z
+  collectedAt: 2026-09-08T03:32:54Z
 timeline:
   created: 2019-12-27
   lastCommit: 2026-09-03
@@ -81,7 +81,7 @@ total:
   commit: 3315
 ---
 path: /home/runner/.x-repo/github.com/pdm-project/pdm
-collectedAt: 2026-09-08T01:26:27Z
+collectedAt: 2026-09-08T03:32:57Z
 loc:
   Python:
     code: 33213
