@@ -7,7 +7,7 @@ A modern Python package and dependency manager supporting the latest PEP standar
 - **Latest release**: `2.29.0` (2026-08-29)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 8674 · **Forks**: 489 · **Open issues**: 1995 · **Contributors**: 258
+- **Stars**: 8674 · **Forks**: 491 · **Open issues**: 1995 · **Contributors**: 258
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/pdm> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:13:47Z._
+_Last regenerated: 2026-09-09T02:46:25Z._
