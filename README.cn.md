@@ -4,7 +4,7 @@
 
 A modern Python package and dependency manager supporting the latest PEP standards
 
-![pdm](https://repo.x-cmd.io/pdm.svg)
+![pdm](https://repo.x-cmd.io/pdm.svg?lang=zh)
 
 ## 安装
 
@@ -23,31 +23,45 @@ x install pdm
 - **最新版本**: `2.29.0` (2026-08-29)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-29T10:18:50Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pdm-2.29.0-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
+| [pdm-2.29.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
+| [pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
+| [pdm-2.29.0-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
+| [pdm-2.29.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
+| [pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
+| [pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
+| [pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
+| [pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
 
 ## 流行度
 
-- **Star**: 8,673 · **Fork**: 492 · **开放 issue**: 1,995 · **贡献者**: 260
+- **Star**: 8,673 · **Fork**: 492 · **开放 issue**: 1,995 · **贡献者**: 261
 
 ## 累计统计
 
-- **发布数**: 250 · **已合并 PR**: 1307 · **开放 PR**: 7 · **已关闭 issue**: 1957 · **开放 issue**: 38 · **提交数**: 3324
+- **发布数**: 250 · **已合并 PR**: 1308 · **开放 PR**: 7 · **已关闭 issue**: 1957 · **开放 issue**: 38 · **提交数**: 3325
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 33 | 2 | 8 | 0 | 36 |
-| 90d | 2026-06-12 | 4 | 55 | 3 | 15 | 0 | 62 |
-| 360d | 2025-09-15 | 15 | 135 | 5 | 78 | 6 | 178 |
+| 30d | 2026-08-11 | 3 | 34 | 2 | 8 | 0 | 37 |
+| 90d | 2026-06-12 | 4 | 56 | 3 | 15 | 0 | 63 |
+| 360d | 2025-09-15 | 15 | 136 | 5 | 78 | 6 | 179 |
 
 ## 代码规模
 
-合计: **35,379** 行代码（覆盖前 5 种语言、共 **278** 个文件）。
+合计: **35,407** 行代码（覆盖前 5 种语言、共 **278** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 33,340 | 679 | 6,625 | 243 |
+| Python | 33,368 | 679 | 6,631 | 243 |
 | Toml | 743 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -72,4 +86,4 @@ pdm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:48:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:50:35Z._
