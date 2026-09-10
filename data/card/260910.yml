@@ -7,7 +7,7 @@ about:
   latestVersion: "2.29.0"
   latestRelease: "2.29.0"
   latestPrerelease: "2.19.0a0"
-  collectedAt: 2026-09-10T15:50:07Z
+  collectedAt: 2026-09-10T21:28:26Z
 timeline:
   created: 2019-12-27
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 3325
 ---
 path: /home/runner/.x-repo/github.com/pdm-project/pdm
-collectedAt: 2026-09-10T15:50:13Z
+collectedAt: 2026-09-10T21:28:28Z
 loc:
   Python:
     code: 33368
