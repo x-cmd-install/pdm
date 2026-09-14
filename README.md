@@ -42,58 +42,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.29.0` (2026-08-29)
-- **Last commit**: 2026-09-11
+- **Latest**: `2.29.1` (2026-09-14)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 8,673 · **Forks**: 491 · **Open issues**: 1,995 · **Contributors**: 261
+- **Stars**: 8,674 · **Forks**: 491 · **Open issues**: 1,995 · **Contributors**: 261
 
 ## Totals (cumulative)
 
-- **Releases**: 250 · **Merged PRs**: 1309 · **Open PRs**: 6 · **Closed issues**: 1957 · **Open issues**: 38 · **Commits**: 3326
+- **Releases**: 251 · **Merged PRs**: 1309 · **Open PRs**: 6 · **Closed issues**: 1957 · **Open issues**: 38 · **Commits**: 3327
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 34 | 1 | 7 | 0 | 38 |
-| last60d | 2026-07-15 | 3 | 50 | 2 | 14 | 0 | 56 |
-| 90d | 2026-06-15 | 4 | 56 | 2 | 15 | 0 | 64 |
-| last180d | 2026-03-17 | 8 | 83 | 3 | 37 | 1 | 109 |
-| 360d | 2025-09-18 | 15 | 136 | 4 | 78 | 6 | 180 |
-| last720d | 2024-09-23 | 43 | 302 | 5 | 275 | 17 | 454 |
+| 30d | 2026-08-15 | 3 | 32 | 1 | 5 | 0 | 27 |
+| last60d | 2026-07-16 | 4 | 50 | 2 | 13 | 0 | 57 |
+| 90d | 2026-06-16 | 5 | 54 | 2 | 15 | 0 | 63 |
+| last180d | 2026-03-18 | 9 | 83 | 3 | 36 | 1 | 106 |
+| 360d | 2025-09-19 | 16 | 136 | 4 | 78 | 6 | 178 |
+| last720d | 2024-09-24 | 42 | 302 | 5 | 273 | 17 | 450 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pdm-2.29.0-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
-| [pdm-2.29.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
-| [pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
-| [pdm-2.29.0-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
-| [pdm-2.29.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
-| [pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
-| [pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
-| [pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
-| [pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.0/pdm-2.29.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
-
-## Distribution status
-
-Reported by **101** distros on [repology.org](https://repology.org/project/pdm). **13** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.28.1` | ⚠️ outdated |
-| Debian 14 | `2.28.1` | ⚠️ outdated |
-| Debian 13 | `2.20.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
-| Arch | `2.29.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.27.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
+| [pdm-2.29.1-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
+| [pdm-2.29.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
+| [pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
+| [pdm-2.29.1-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
+| [pdm-2.29.1-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
+| [pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
+| [pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
+| [pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
+| [pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -104,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T02:50:29Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:04:14Z._
