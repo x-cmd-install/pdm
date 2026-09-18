@@ -14,11 +14,11 @@ x install pdm
 
 ## Code insight
 
-Total: **35,448** lines of code across **278** files in the top 5 languages.
+Total: **35,475** lines of code across **278** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 33,409 | 679 | 6,637 | 243 |
+| Python | 33,436 | 679 | 6,646 | 243 |
 | Toml | 743 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -42,43 +42,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.29.1` (2026-09-14)
-- **Last commit**: 2026-09-15
+- **Latest**: `2.29.2` (2026-09-17)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 8,671 · **Forks**: 495 · **Open issues**: 1,998 · **Contributors**: 262
+- **Stars**: 8,669 · **Forks**: 494 · **Open issues**: 1,998 · **Contributors**: 262
 
 ## Totals (cumulative)
 
-- **Releases**: 251 · **Merged PRs**: 1311 · **Open PRs**: 7 · **Closed issues**: 1959 · **Open issues**: 39 · **Commits**: 3329
+- **Releases**: 252 · **Merged PRs**: 1312 · **Open PRs**: 6 · **Closed issues**: 1960 · **Open issues**: 38 · **Commits**: 3331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 3 | 26 | 2 | 6 | 1 | 29 |
-| last60d | 2026-07-19 | 4 | 51 | 3 | 14 | 1 | 59 |
-| 90d | 2026-06-19 | 5 | 56 | 3 | 16 | 1 | 65 |
-| last180d | 2026-03-21 | 9 | 84 | 4 | 38 | 2 | 108 |
-| 360d | 2025-09-22 | 16 | 136 | 5 | 80 | 7 | 180 |
-| last720d | 2024-09-27 | 42 | 302 | 6 | 273 | 17 | 450 |
+| 30d | 2026-08-19 | 3 | 26 | 1 | 7 | 0 | 31 |
+| last60d | 2026-07-20 | 5 | 52 | 2 | 15 | 0 | 61 |
+| 90d | 2026-06-20 | 6 | 57 | 2 | 17 | 0 | 67 |
+| last180d | 2026-03-22 | 10 | 85 | 3 | 39 | 1 | 110 |
+| 360d | 2025-09-23 | 17 | 137 | 4 | 81 | 6 | 182 |
+| last720d | 2024-09-28 | 43 | 303 | 5 | 273 | 16 | 452 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pdm-2.29.1-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
-| [pdm-2.29.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
-| [pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
-| [pdm-2.29.1-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
-| [pdm-2.29.1-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
-| [pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
-| [pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
-| [pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
-| [pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.1/pdm-2.29.1-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
+| [pdm-2.29.2-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
+| [pdm-2.29.2-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [pdm-2.29.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
+| [pdm-2.29.2-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
+| [pdm-2.29.2-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
+| [pdm-2.29.2-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
+| [pdm-2.29.2-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
+| [pdm-2.29.2-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
+| [pdm-2.29.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
+| [pdm-2.29.2-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.2/pdm-2.29.2-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T03:06:00Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T02:53:57Z._
