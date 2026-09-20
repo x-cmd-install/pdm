@@ -4,7 +4,7 @@
 
 A modern Python package and dependency manager supporting the latest PEP standards
 
-![pdm](https://repo.x-cmd.io/pdm.svg?lang=zh)
+[![x-cmd/install — pdm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pdm.svg?lang=zh)](https://x-cmd.com/install/pdm)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install pdm
 
 ## 流行度
 
-- **Star**: 8,669 · **Fork**: 494 · **开放 issue**: 1,998 · **贡献者**: 262
+- **Star**: 8,669 · **Fork**: 492 · **开放 issue**: 1,998 · **贡献者**: 262
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install pdm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 26 | 1 | 7 | 0 | 31 |
-| last60d | 2026-07-20 | 5 | 52 | 2 | 15 | 0 | 61 |
-| 90d | 2026-06-20 | 6 | 57 | 2 | 17 | 0 | 67 |
-| last180d | 2026-03-22 | 10 | 85 | 3 | 39 | 1 | 110 |
-| 360d | 2025-09-23 | 17 | 137 | 4 | 81 | 6 | 182 |
-| last720d | 2024-09-28 | 43 | 303 | 5 | 273 | 16 | 452 |
+| 30d | 2026-08-21 | 3 | 24 | 1 | 7 | 0 | 31 |
+| last60d | 2026-07-22 | 5 | 49 | 2 | 14 | 0 | 61 |
+| 90d | 2026-06-22 | 6 | 56 | 2 | 17 | 0 | 67 |
+| last180d | 2026-03-24 | 10 | 84 | 3 | 39 | 1 | 110 |
+| 360d | 2025-09-25 | 17 | 136 | 4 | 81 | 6 | 182 |
+| last720d | 2024-09-30 | 43 | 301 | 5 | 271 | 16 | 450 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ pdm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T02:53:58Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:04:02Z._

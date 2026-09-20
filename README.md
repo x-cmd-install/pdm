@@ -4,7 +4,7 @@
 
 A modern Python package and dependency manager supporting the latest PEP standards
 
-![pdm](https://repo.x-cmd.io/pdm.svg)
+[![x-cmd/install — pdm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pdm.svg)](https://x-cmd.com/install/pdm)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,669 · **Forks**: 494 · **Open issues**: 1,998 · **Contributors**: 262
+- **Stars**: 8,669 · **Forks**: 492 · **Open issues**: 1,998 · **Contributors**: 262
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 26 | 1 | 7 | 0 | 31 |
-| last60d | 2026-07-20 | 5 | 52 | 2 | 15 | 0 | 61 |
-| 90d | 2026-06-20 | 6 | 57 | 2 | 17 | 0 | 67 |
-| last180d | 2026-03-22 | 10 | 85 | 3 | 39 | 1 | 110 |
-| 360d | 2025-09-23 | 17 | 137 | 4 | 81 | 6 | 182 |
-| last720d | 2024-09-28 | 43 | 303 | 5 | 273 | 16 | 452 |
+| 30d | 2026-08-21 | 3 | 24 | 1 | 7 | 0 | 31 |
+| last60d | 2026-07-22 | 5 | 49 | 2 | 14 | 0 | 61 |
+| 90d | 2026-06-22 | 6 | 56 | 2 | 17 | 0 | 67 |
+| last180d | 2026-03-24 | 10 | 84 | 3 | 39 | 1 | 110 |
+| 360d | 2025-09-25 | 17 | 136 | 4 | 81 | 6 | 182 |
+| last720d | 2024-09-30 | 43 | 301 | 5 | 271 | 16 | 450 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:53:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:04:01Z._
