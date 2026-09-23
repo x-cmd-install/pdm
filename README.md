@@ -4,7 +4,7 @@
 
 A modern Python package and dependency manager supporting the latest PEP standards
 
-[![x-cmd/install — pdm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pdm.svg)](https://x-cmd.com/install/pdm)
+[![x-cmd/install — pdm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pdm.svg)](https://x-cmd.com/install/pdm)
 
 ## Install
 
@@ -26,7 +26,7 @@ Total: **35,499** lines of code across **278** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,669 · **Forks**: 493 · **Open issues**: 1,999 · **Contributors**: 262
+- **Stars**: 8,669 · **Forks**: 494 · **Open issues**: 1,999 · **Contributors**: 262
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 1313 · **Open PRs**: 7 · **Closed issues**: 1961 · **Open issues**: 38 · **Commits**: 3333
+- **Releases**: 252 · **Merged PRs**: 1313 · **Open PRs**: 8 · **Closed issues**: 1961 · **Open issues**: 38 · **Commits**: 3333
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 24 | 2 | 8 | 0 | 29 |
-| last60d | 2026-07-24 | 5 | 48 | 3 | 14 | 0 | 56 |
-| 90d | 2026-06-24 | 5 | 57 | 3 | 18 | 0 | 65 |
-| last180d | 2026-03-26 | 9 | 84 | 4 | 39 | 0 | 111 |
-| 360d | 2025-09-27 | 17 | 137 | 5 | 82 | 6 | 184 |
-| last720d | 2024-10-02 | 43 | 302 | 6 | 270 | 16 | 451 |
+| 30d | 2026-08-24 | 3 | 24 | 3 | 8 | 0 | 29 |
+| last60d | 2026-07-25 | 5 | 48 | 4 | 14 | 0 | 56 |
+| 90d | 2026-06-25 | 5 | 57 | 4 | 18 | 0 | 65 |
+| last180d | 2026-03-27 | 9 | 84 | 5 | 38 | 0 | 111 |
+| 360d | 2025-09-28 | 17 | 137 | 6 | 82 | 6 | 184 |
+| last720d | 2024-10-03 | 43 | 302 | 7 | 269 | 16 | 451 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:01:06Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:00:59Z._
