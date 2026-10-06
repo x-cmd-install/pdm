@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 1315 · **Open PRs**: 12 · **Closed issues**: 1965 · **Open issues**: 38 · **Commits**: 3335
+- **Releases**: 252 · **Merged PRs**: 1315 · **Open PRs**: 13 · **Closed issues**: 1965 · **Open issues**: 38 · **Commits**: 3335
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 13 | 7 | 7 | 0 | 10 |
-| last60d | 2026-08-06 | 5 | 42 | 7 | 14 | 0 | 48 |
-| 90d | 2026-07-07 | 5 | 57 | 8 | 19 | 0 | 65 |
-| last180d | 2026-04-08 | 9 | 82 | 9 | 39 | 0 | 105 |
-| 360d | 2025-10-10 | 17 | 131 | 10 | 77 | 6 | 174 |
-| last720d | 2024-10-15 | 42 | 300 | 11 | 264 | 16 | 443 |
+| 30d | 2026-09-06 | 2 | 12 | 8 | 7 | 0 | 10 |
+| last60d | 2026-08-07 | 5 | 42 | 8 | 14 | 0 | 48 |
+| 90d | 2026-07-08 | 5 | 57 | 9 | 19 | 0 | 65 |
+| last180d | 2026-04-09 | 9 | 82 | 10 | 39 | 0 | 105 |
+| 360d | 2025-10-11 | 17 | 130 | 11 | 77 | 6 | 174 |
+| last720d | 2024-10-16 | 42 | 300 | 12 | 263 | 16 | 443 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T03:44:46Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T04:32:30Z._
