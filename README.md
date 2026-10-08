@@ -26,7 +26,7 @@ Total: **35,620** lines of code across **278** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,665 · **Forks**: 500 · **Open issues**: 2,006 · **Contributors**: 267
+- **Stars**: 8,663 · **Forks**: 499 · **Open issues**: 2,006 · **Contributors**: 267
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 16 | 5 | 6 | 2 | 17 |
-| last60d | 2026-08-08 | 5 | 49 | 5 | 15 | 2 | 55 |
-| 90d | 2026-07-09 | 5 | 64 | 6 | 20 | 2 | 72 |
-| last180d | 2026-04-10 | 9 | 88 | 7 | 40 | 2 | 112 |
-| 360d | 2025-10-12 | 16 | 137 | 8 | 77 | 8 | 181 |
-| last720d | 2024-10-17 | 42 | 305 | 9 | 263 | 18 | 450 |
+| 30d | 2026-09-08 | 2 | 15 | 4 | 6 | 2 | 17 |
+| last60d | 2026-08-09 | 5 | 48 | 5 | 15 | 2 | 55 |
+| 90d | 2026-07-10 | 5 | 64 | 6 | 20 | 2 | 72 |
+| last180d | 2026-04-11 | 9 | 88 | 7 | 40 | 2 | 112 |
+| 360d | 2025-10-13 | 16 | 137 | 8 | 77 | 8 | 181 |
+| last720d | 2024-10-18 | 42 | 303 | 9 | 261 | 18 | 446 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T03:58:25Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T04:11:17Z._
