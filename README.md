@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 2 | 17 | 4 | 9 | 2 | 21 |
-| last60d | 2026-08-11 | 5 | 52 | 5 | 17 | 2 | 59 |
-| 90d | 2026-07-12 | 5 | 68 | 6 | 23 | 2 | 76 |
-| last180d | 2026-04-13 | 9 | 92 | 7 | 42 | 2 | 116 |
-| 360d | 2025-10-15 | 16 | 141 | 8 | 79 | 8 | 185 |
-| last720d | 2024-10-20 | 41 | 307 | 9 | 262 | 18 | 444 |
+| 30d | 2026-09-11 | 2 | 17 | 4 | 9 | 2 | 21 |
+| last60d | 2026-08-12 | 4 | 52 | 5 | 16 | 2 | 59 |
+| 90d | 2026-07-13 | 5 | 68 | 6 | 23 | 2 | 76 |
+| last180d | 2026-04-14 | 9 | 92 | 7 | 42 | 2 | 116 |
+| 360d | 2025-10-16 | 16 | 141 | 8 | 79 | 7 | 185 |
+| last720d | 2024-10-21 | 41 | 307 | 9 | 262 | 18 | 444 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T04:01:47Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T03:37:00Z._
