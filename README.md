@@ -14,11 +14,11 @@ x install pdm
 
 ## Code insight
 
-Total: **36,173** lines of code across **278** files in the top 5 languages.
+Total: **36,198** lines of code across **278** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 34,133 | 728 | 6,763 | 243 |
+| Python | 34,158 | 730 | 6,767 | 243 |
 | Toml | 743 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.29.3` (2026-10-19)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 8,663 · **Forks**: 504 · **Open issues**: 2,019 · **Contributors**: 274
+- **Stars**: 8,662 · **Forks**: 504 · **Open issues**: 2,019 · **Contributors**: 274
 
 ## Totals (cumulative)
 
-- **Releases**: 253 · **Merged PRs**: 1343 · **Open PRs**: 9 · **Closed issues**: 1982 · **Open issues**: 37 · **Commits**: 3365
+- **Releases**: 253 · **Merged PRs**: 1344 · **Open PRs**: 8 · **Closed issues**: 1983 · **Open issues**: 36 · **Commits**: 3366
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 29 | 2 | 15 | 1 | 21 |
-| last60d | 2026-08-23 | 4 | 54 | 4 | 24 | 1 | 53 |
-| 90d | 2026-07-24 | 6 | 78 | 5 | 30 | 1 | 78 |
-| last180d | 2026-04-25 | 9 | 107 | 6 | 48 | 1 | 120 |
-| 360d | 2025-10-27 | 17 | 157 | 7 | 88 | 5 | 189 |
-| last720d | 2024-11-01 | 41 | 319 | 8 | 261 | 16 | 452 |
+| 30d | 2026-09-23 | 1 | 30 | 1 | 16 | 0 | 22 |
+| last60d | 2026-08-24 | 4 | 55 | 3 | 25 | 0 | 54 |
+| 90d | 2026-07-25 | 6 | 79 | 4 | 31 | 0 | 79 |
+| last180d | 2026-04-26 | 9 | 108 | 5 | 49 | 0 | 121 |
+| 360d | 2025-10-28 | 17 | 157 | 6 | 87 | 4 | 190 |
+| last720d | 2024-11-02 | 40 | 320 | 7 | 262 | 15 | 453 |
 
 ## Release assets
 
@@ -80,6 +80,21 @@ Lowest-scoring checks:
 | [pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
 | [pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.3/pdm-2.29.3-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **102** distros on [repology.org](https://repology.org/project/pdm). **10** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.29.3` | ✅ latest |
+| Debian 14 | `2.29.2` | ⚠️ outdated |
+| Debian 13 | `2.20.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
+| Arch | `2.29.3` | ✅ latest |
+| Homebrew | `2.29.3` | ✅ latest |
+| Nix unstable | `2.27.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pdm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +104,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:01:53Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:06:35Z._
