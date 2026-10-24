@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,662 · **Forks**: 504 · **Open issues**: 2,019 · **Contributors**: 274
+- **Stars**: 8,662 · **Forks**: 505 · **Open issues**: 2,019 · **Contributors**: 274
 
 ## Totals (cumulative)
 
-- **Releases**: 253 · **Merged PRs**: 1344 · **Open PRs**: 8 · **Closed issues**: 1983 · **Open issues**: 36 · **Commits**: 3366
+- **Releases**: 253 · **Merged PRs**: 1344 · **Open PRs**: 9 · **Closed issues**: 1983 · **Open issues**: 36 · **Commits**: 3366
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 30 | 1 | 16 | 0 | 22 |
-| last60d | 2026-08-24 | 4 | 55 | 3 | 25 | 0 | 54 |
-| 90d | 2026-07-25 | 6 | 79 | 4 | 31 | 0 | 79 |
-| last180d | 2026-04-26 | 9 | 108 | 5 | 49 | 0 | 121 |
-| 360d | 2025-10-28 | 17 | 157 | 6 | 87 | 4 | 190 |
-| last720d | 2024-11-02 | 40 | 320 | 7 | 262 | 15 | 453 |
+| 30d | 2026-09-24 | 1 | 30 | 2 | 16 | 0 | 22 |
+| last60d | 2026-08-25 | 4 | 55 | 4 | 25 | 0 | 54 |
+| 90d | 2026-07-26 | 6 | 78 | 5 | 31 | 0 | 79 |
+| last180d | 2026-04-27 | 9 | 108 | 6 | 48 | 0 | 121 |
+| 360d | 2025-10-29 | 17 | 156 | 7 | 86 | 4 | 190 |
+| last720d | 2024-11-03 | 40 | 319 | 8 | 262 | 15 | 453 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/pdm). **10** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/pdm). **11** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T03:06:35Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T03:01:54Z._
