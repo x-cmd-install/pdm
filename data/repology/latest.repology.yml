@@ -1,5 +1,5 @@
-- repo: raspbian_stable
-  subrepo: main
+- repo: pureos_landing
+  subrepo: landing/main
   srcname: pdm
   binnames:
     - python3-pdm
@@ -11,7 +11,35 @@
     - team+python@tracker.debian.org
     - byang@debian.org
   categories:
-    - misc
+    - python
+- repo: slackbuilds
+  srcname: python/python3-pdm
+  visiblename: python/python3-pdm
+  version: 2.26.9
+  origversion: null
+  status: outdated
+  maintainers:
+    - jebrhansen+sbo@gmail.com
+  categories:
+    - python
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.24.2
+  origversion: 2.24.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.24.1
+  origversion: 2.24.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alt_p11
   srcname: python3-module-pdm
   binnames:
@@ -87,15 +115,6 @@
     - byang@debian.org
   categories:
     - misc
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.26.4
-  origversion: 2.26.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: debian_13
   subrepo: trixie/main
   srcname: pdm
@@ -116,9 +135,9 @@
   binnames:
     - python3-pdm
   visiblename: pdm
-  version: 2.29.2
-  origversion: 2.29.2-1
-  status: outdated
+  version: 2.29.3
+  origversion: 2.29.3-1
+  status: newest
   maintainers:
     - team+python@tracker.debian.org
     - byang@debian.org
@@ -428,15 +447,6 @@
     - MIT
   categories:
     - Development/Python
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.26.3
-  origversion: 2.26.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: python-pdm
@@ -496,7 +506,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: pdm
   binnames:
     - python3-pdm
@@ -510,7 +520,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: pdm
   binnames:
     - python3-pdm
@@ -559,20 +569,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: pdm
-  binnames:
-    - python3-pdm
-  visiblename: pdm
-  version: 2.20.1
-  origversion: 2.20.1+ds1-2
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - byang@debian.org
-  categories:
-    - python
 - repo: pypi
   srcname: pdm
   binname: pdm
@@ -595,30 +591,34 @@
     - byang@debian.org
   categories:
     - misc
-- repo: raspbian_testing
+- repo: raspbian_stable
   subrepo: main
   srcname: pdm
   binnames:
     - python3-pdm
   visiblename: pdm
-  version: 2.29.2
-  origversion: 2.29.2-1
+  version: 2.20.1
+  origversion: 2.20.1+ds1-2
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - byang@debian.org
   categories:
     - misc
-- repo: slackbuilds
-  srcname: python/python3-pdm
-  visiblename: python/python3-pdm
-  version: 2.26.9
-  origversion: null
-  status: outdated
+- repo: raspbian_testing
+  subrepo: main
+  srcname: pdm
+  binnames:
+    - python3-pdm
+  visiblename: pdm
+  version: 2.29.3
+  origversion: 2.29.3-1
+  status: newest
   maintainers:
-    - jebrhansen+sbo@gmail.com
+    - team+python@tracker.debian.org
+    - byang@debian.org
   categories:
-    - python
+    - misc
 - repo: t2
   srcname: pdm
   visiblename: pdm
@@ -800,6 +800,24 @@
   subrepo: dev
   binname: pdm
   visiblename: pdm
+  version: 2.26.4
+  origversion: 2.26.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.26.3
+  origversion: 2.26.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
   version: 2.26.2
   origversion: 2.26.2-1~ops2deb
   status: legacy
@@ -901,24 +919,6 @@
   visiblename: pdm
   version: 2.25.0
   origversion: 2.25.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.24.2
-  origversion: 2.24.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.24.1
-  origversion: 2.24.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
