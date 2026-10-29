@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,659 · **Forks**: 507 · **Open issues**: 2,022 · **Contributors**: 278
+- **Stars**: 8,659 · **Forks**: 508 · **Open issues**: 2,023 · **Contributors**: 278
 
 ## Totals (cumulative)
 
-- **Releases**: 254 · **Merged PRs**: 1353 · **Open PRs**: 8 · **Closed issues**: 1987 · **Open issues**: 35 · **Commits**: 3378
+- **Releases**: 254 · **Merged PRs**: 1353 · **Open PRs**: 13 · **Closed issues**: 1987 · **Open issues**: 36 · **Commits**: 3378
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 39 | 1 | 19 | 0 | 32 |
-| last60d | 2026-08-29 | 5 | 57 | 3 | 27 | 0 | 53 |
-| 90d | 2026-07-30 | 7 | 85 | 4 | 33 | 0 | 88 |
-| last180d | 2026-05-01 | 10 | 115 | 5 | 49 | 0 | 129 |
-| 360d | 2025-11-02 | 17 | 163 | 6 | 89 | 4 | 200 |
-| last720d | 2024-11-07 | 41 | 323 | 7 | 259 | 14 | 458 |
+| 30d | 2026-09-29 | 2 | 38 | 6 | 19 | 1 | 32 |
+| last60d | 2026-08-30 | 4 | 56 | 8 | 26 | 1 | 53 |
+| 90d | 2026-07-31 | 7 | 85 | 9 | 33 | 1 | 88 |
+| last180d | 2026-05-02 | 10 | 115 | 10 | 49 | 1 | 129 |
+| 360d | 2025-11-03 | 17 | 162 | 11 | 89 | 5 | 200 |
+| last720d | 2024-11-08 | 41 | 322 | 12 | 258 | 15 | 458 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/pdm). **3** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/pdm). **8** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,8 +90,8 @@ Reported by **102** distros on [repology.org](https://repology.org/project/pdm).
 | Debian 14 | `2.29.3` | ⚠️ outdated |
 | Debian 13 | `2.20.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
-| Arch | `2.29.3` | ⚠️ outdated |
-| Homebrew | `2.29.3` | ⚠️ outdated |
+| Arch | `2.29.4` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.27.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
 
@@ -104,4 +104,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T03:43:18Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T04:04:10Z._
