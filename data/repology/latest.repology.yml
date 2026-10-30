@@ -1,24 +1,39 @@
-- repo: homebrew
-  srcname: pdm
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
   visiblename: pdm
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Modern Python package and dependency manager supporting the latest PEP standards
-- repo: kali_rolling
-  subrepo: main
-  srcname: pdm
-  binnames:
-    - python3-pdm
+  version: 2.27.0
+  origversion: 2.27.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.29.1
+  origversion: 2.29.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
   visiblename: pdm
   version: 2.29.0
-  origversion: 2.29.0-1
-  status: outdated
+  origversion: 2.29.0-1~ops2deb
+  status: legacy
   maintainers:
-    - team+python@tracker.debian.org
-    - byang@debian.org
-  categories:
-    - misc
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.28.2
+  origversion: 2.28.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alt_p11
   srcname: python3-module-pdm
   binnames:
@@ -34,13 +49,6 @@
     - MIT
   categories:
     - Development/Python3
-- repo: homebrew
-  srcname: pdm
-  visiblename: pdm
-  version: 2.29.4
-  origversion: null
-  status: newest
-  summary: Modern Python package and dependency manager supporting the latest PEP standards
 - repo: altsisyphus
   srcname: python3-module-pdm
   binnames:
@@ -63,7 +71,7 @@
   visiblename: python-pdm
   version: 2.29.4
   origversion: 2.29.4-1
-  status: newest
+  status: outdated
   summary: A modern Python package and dependency manager supporting the latest PEP standards
   licenses:
     - MIT
@@ -72,8 +80,8 @@
   srcname: python-pdm
   binname: python-pdm
   visiblename: python-pdm
-  version: 2.29.2
-  origversion: 2.29.2-1
+  version: 2.29.3
+  origversion: 2.29.3-1
   status: outdated
   summary: A modern Python package and dependency manager supporting the latest PEP standards
   licenses:
@@ -188,7 +196,7 @@
   visiblename: dev-python/pdm
   version: 2.29.4
   origversion: null
-  status: newest
+  status: outdated
   summary: Python package and dependency manager supporting the latest PEP standards
   maintainers:
     - python@gentoo.org
@@ -197,6 +205,15 @@
     - MIT
   categories:
     - dev-python
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.28.1
+  origversion: 2.28.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: gentoo
   srcname: dev-python/pdm
   visiblename: dev-python/pdm
@@ -211,6 +228,34 @@
     - MIT
   categories:
     - dev-python
+- repo: homebrew
+  srcname: pdm
+  visiblename: pdm
+  version: 2.29.4
+  origversion: null
+  status: outdated
+  summary: Modern Python package and dependency manager supporting the latest PEP standards
+- repo: homebrew
+  srcname: pdm
+  visiblename: pdm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Modern Python package and dependency manager supporting the latest PEP standards
+- repo: kali_rolling
+  subrepo: main
+  srcname: pdm
+  binnames:
+    - python3-pdm
+  visiblename: pdm
+  version: 2.29.0
+  origversion: 2.29.0-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - byang@debian.org
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: dev-python/pdm
   visiblename: dev-python/pdm
@@ -253,20 +298,12 @@
     - MIT
   categories:
     - dev-python
-- repo: pypi
-  srcname: pdm
-  binname: pdm
-  visiblename: pdm
-  version: 2.29.4
-  origversion: null
-  status: newest
-  summary: A modern Python package and dependency manager supporting the latest PEP standards
 - repo: liguros_develop
   srcname: dev-python/pdm
   visiblename: dev-python/pdm
   version: 2.29.4
   origversion: null
-  status: newest
+  status: outdated
   summary: Python package and dependency manager supporting the latest PEP standards
   maintainers:
     - python@gentoo.org
@@ -445,6 +482,15 @@
     - MIT
   categories:
     - Development/Python
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.28.0
+  origversion: 2.28.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: python-pdm
@@ -467,7 +513,7 @@
   visiblename: python-pdm
   version: 2.29.4
   origversion: 2.29.4-1
-  status: newest
+  status: outdated
   summary: A modern Python package and dependency manager supporting the latest PEP standards
   licenses:
     - MIT
@@ -549,6 +595,14 @@
     - byang@debian.org
   categories:
     - python
+- repo: pypi
+  srcname: pdm
+  binname: pdm
+  visiblename: pdm
+  version: 2.29.5
+  origversion: null
+  status: newest
+  summary: A modern Python package and dependency manager supporting the latest PEP standards
 - repo: raspbian_oldstable
   subrepo: main
   srcname: pdm
@@ -606,7 +660,7 @@
   visiblename: pdm
   version: 2.29.4
   origversion: null
-  status: newest
+  status: outdated
   summary: Python package and dependency manager supporting the latest PEP standards
   maintainers:
     - paul.manners@yahoo.com
@@ -676,7 +730,7 @@
   visiblename: pdm
   version: 2.29.4
   origversion: 2.29.4-1~ops2deb
-  status: newest
+  status: outdated
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -694,60 +748,6 @@
   visiblename: pdm
   version: 2.29.2
   origversion: 2.29.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.29.1
-  origversion: 2.29.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.29.0
-  origversion: 2.29.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.28.2
-  origversion: 2.28.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.28.1
-  origversion: 2.28.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.28.0
-  origversion: 2.28.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.27.0
-  origversion: 2.27.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
