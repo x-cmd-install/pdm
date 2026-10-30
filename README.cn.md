@@ -14,11 +14,11 @@ x install pdm
 
 ## 代码洞察
 
-合计: **36,455** 行代码（覆盖前 5 种语言、共 **278** 个文件）。
+合计: **36,811** 行代码（覆盖前 5 种语言、共 **279** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 34,417 | 738 | 6,823 | 243 |
+| Python | 34,773 | 744 | 6,881 | 244 |
 | Toml | 741 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -42,47 +42,47 @@ x install pdm
 
 ## 发布
 
-- **最新版本**: `2.29.4` (2026-10-27)
-- **最近提交**: 2026-10-27
+- **最新版本**: `2.29.5` (2026-10-30)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 8,659 · **Fork**: 508 · **开放 issue**: 2,023 · **贡献者**: 278
+- **Star**: 8,657 · **Fork**: 510 · **开放 issue**: 2,023 · **贡献者**: 281
 
 ## 累计统计
 
-- **发布数**: 254 · **已合并 PR**: 1353 · **开放 PR**: 13 · **已关闭 issue**: 1987 · **开放 issue**: 36 · **提交数**: 3378
+- **发布数**: 255 · **已合并 PR**: 1362 · **开放 PR**: 8 · **已关闭 issue**: 1988 · **开放 issue**: 35 · **提交数**: 3389
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 38 | 6 | 19 | 1 | 32 |
-| last60d | 2026-08-30 | 4 | 56 | 8 | 26 | 1 | 53 |
-| 90d | 2026-07-31 | 7 | 85 | 9 | 33 | 1 | 88 |
-| last180d | 2026-05-02 | 10 | 115 | 10 | 49 | 1 | 129 |
-| 360d | 2025-11-03 | 17 | 162 | 11 | 89 | 5 | 200 |
-| last720d | 2024-11-08 | 41 | 322 | 12 | 258 | 15 | 458 |
+| 30d | 2026-09-30 | 3 | 46 | 1 | 20 | 0 | 43 |
+| last60d | 2026-08-31 | 5 | 63 | 3 | 27 | 0 | 64 |
+| 90d | 2026-08-01 | 8 | 93 | 4 | 34 | 0 | 99 |
+| last180d | 2026-05-03 | 11 | 124 | 5 | 50 | 0 | 140 |
+| 360d | 2025-11-04 | 18 | 171 | 6 | 90 | 4 | 211 |
+| last720d | 2024-11-09 | 42 | 330 | 7 | 258 | 14 | 467 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [pdm-2.29.4-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
-| [pdm-2.29.4-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [pdm-2.29.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
-| [pdm-2.29.4-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
-| [pdm-2.29.4-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
-| [pdm-2.29.4-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
-| [pdm-2.29.4-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
-| [pdm-2.29.4-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
-| [pdm-2.29.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
-| [pdm-2.29.4-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.4/pdm-2.29.4-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
+| [pdm-2.29.5-aarch64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-aarch64-apple-darwin.tar.gz) | 15.8 MiB | `native/darwin/arm64` |
+| [pdm-2.29.5-aarch64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-aarch64-apple-darwin.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [pdm-2.29.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-aarch64-unknown-linux-gnu.tar.gz) | 17.7 MiB | `native/linux/arm64/glibc` |
+| [pdm-2.29.5-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-aarch64-unknown-linux-gnu.tar.gz.sha256) | 110 B | `native/linux/arm64/glibc` |
+| [pdm-2.29.5-x86_64-apple-darwin.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-x86_64-apple-darwin.tar.gz) | 16.1 MiB | `native/darwin/x64` |
+| [pdm-2.29.5-x86_64-apple-darwin.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-x86_64-apple-darwin.tar.gz.sha256) | 104 B | `native/darwin/x64` |
+| [pdm-2.29.5-x86_64-pc-windows-msvc.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-x86_64-pc-windows-msvc.tar.gz) | 21.0 MiB | `native/win/x64` |
+| [pdm-2.29.5-x86_64-pc-windows-msvc.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-x86_64-pc-windows-msvc.tar.gz.sha256) | 107 B | `native/win/x64` |
+| [pdm-2.29.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
+| [pdm-2.29.5-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.5/pdm-2.29.5-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/pdm) 上共有 **102** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**40** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/pdm) 上共有 **102** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**47** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -90,8 +90,8 @@ x install pdm
 | Debian 14 | `2.29.3` | ⚠️ outdated |
 | Debian 13 | `2.20.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
-| Arch | `2.29.4` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Arch | `2.29.4` | ⚠️ outdated |
+| Homebrew | `2.29.4` | ⚠️ outdated |
 | Nix unstable | `2.27.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
 
@@ -104,4 +104,4 @@ pdm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T04:04:11Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T04:05:28Z._
