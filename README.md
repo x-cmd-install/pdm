@@ -24,16 +24,6 @@ Total: **36,821** lines of code across **279** files in the top 5 languages.
 | PowerShell | 272 | 80 | 68 | 2 |
 | Json | 152 | 0 | 0 | 7 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.4 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Binary-Artifacts** (0/10) — binaries present in source code
-
 ## Source
 
 - **Upstream**: <https://github.com/pdm-project/pdm>
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 1364 · **Open PRs**: 10 · **Closed issues**: 1989 · **Open issues**: 35 · **Commits**: 3391
+- **Releases**: 255 · **Merged PRs**: 1365 · **Open PRs**: 12 · **Closed issues**: 1989 · **Open issues**: 35 · **Commits**: 3392
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 45 | 3 | 21 | 0 | 45 |
-| last60d | 2026-09-01 | 5 | 63 | 5 | 28 | 0 | 66 |
-| 90d | 2026-08-02 | 8 | 93 | 6 | 35 | 0 | 101 |
-| last180d | 2026-05-04 | 11 | 125 | 7 | 50 | 0 | 142 |
-| 360d | 2025-11-05 | 18 | 173 | 8 | 90 | 4 | 213 |
-| last720d | 2024-11-10 | 41 | 331 | 9 | 258 | 14 | 466 |
+| 30d | 2026-10-02 | 3 | 46 | 5 | 21 | 0 | 46 |
+| last60d | 2026-09-02 | 5 | 64 | 7 | 28 | 0 | 67 |
+| 90d | 2026-08-03 | 8 | 93 | 8 | 35 | 0 | 102 |
+| last180d | 2026-05-05 | 11 | 126 | 9 | 50 | 0 | 143 |
+| 360d | 2025-11-06 | 18 | 174 | 10 | 89 | 3 | 214 |
+| last720d | 2024-11-11 | 41 | 330 | 11 | 256 | 13 | 467 |
 
 ## Release assets
 
@@ -82,7 +72,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **104** distros on [repology.org](https://repology.org/project/pdm). **7** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
+Reported by **104** distros on [repology.org](https://repology.org/project/pdm). **8** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,7 +81,7 @@ Reported by **104** distros on [repology.org](https://repology.org/project/pdm).
 | Debian 13 | `2.20.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
 | Arch | `2.29.4` | ⚠️ outdated |
-| Homebrew | `2.29.4` | ⚠️ outdated |
+| Homebrew | `2.29.5` | ✅ latest |
 | Nix unstable | `2.27.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
 
@@ -104,4 +94,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T03:49:32Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T03:58:39Z._

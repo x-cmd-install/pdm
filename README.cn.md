@@ -24,16 +24,6 @@ x install pdm
 | PowerShell | 272 | 80 | 68 | 2 |
 | Json | 152 | 0 | 0 | 7 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.4 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Binary-Artifacts** (0/10) — binaries present in source code
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/pdm-project/pdm>
@@ -52,18 +42,18 @@ x install pdm
 
 ## 累计统计
 
-- **发布数**: 255 · **已合并 PR**: 1364 · **开放 PR**: 10 · **已关闭 issue**: 1989 · **开放 issue**: 35 · **提交数**: 3391
+- **发布数**: 255 · **已合并 PR**: 1365 · **开放 PR**: 12 · **已关闭 issue**: 1989 · **开放 issue**: 35 · **提交数**: 3392
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 45 | 3 | 21 | 0 | 45 |
-| last60d | 2026-09-01 | 5 | 63 | 5 | 28 | 0 | 66 |
-| 90d | 2026-08-02 | 8 | 93 | 6 | 35 | 0 | 101 |
-| last180d | 2026-05-04 | 11 | 125 | 7 | 50 | 0 | 142 |
-| 360d | 2025-11-05 | 18 | 173 | 8 | 90 | 4 | 213 |
-| last720d | 2024-11-10 | 41 | 331 | 9 | 258 | 14 | 466 |
+| 30d | 2026-10-02 | 3 | 46 | 5 | 21 | 0 | 46 |
+| last60d | 2026-09-02 | 5 | 64 | 7 | 28 | 0 | 67 |
+| 90d | 2026-08-03 | 8 | 93 | 8 | 35 | 0 | 102 |
+| last180d | 2026-05-05 | 11 | 126 | 9 | 50 | 0 | 143 |
+| 360d | 2025-11-06 | 18 | 174 | 10 | 89 | 3 | 214 |
+| last720d | 2024-11-11 | 41 | 330 | 11 | 256 | 13 | 467 |
 
 ## Release 资产
 
@@ -82,7 +72,7 @@ x install pdm
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/pdm) 上共有 **104** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**41** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/pdm) 上共有 **104** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**40** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -91,7 +81,7 @@ x install pdm
 | Debian 13 | `2.20.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
 | Arch | `2.29.4` | ⚠️ outdated |
-| Homebrew | `2.29.4` | ⚠️ outdated |
+| Homebrew | `2.29.5` | ✅ latest |
 | Nix unstable | `2.27.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
 
@@ -104,4 +94,4 @@ pdm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T03:49:33Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T03:58:40Z._
