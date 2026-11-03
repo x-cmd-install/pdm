@@ -87,6 +87,15 @@
     - byang@debian.org
   categories:
     - misc
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.24.1
+  origversion: 2.24.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: debian_14
   subrepo: forky/main
   srcname: pdm
@@ -101,15 +110,6 @@
     - byang@debian.org
   categories:
     - misc
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.22.4
-  origversion: 2.22.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: debian_unstable
   subrepo: sid/main
   srcname: pdm
@@ -262,6 +262,22 @@
     - MIT
   categories:
     - dev-python
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: python-pdm
+  binnames:
+    - python-pdm
+  visiblename: python-pdm
+  version: 2.22.3
+  origversion: 2.22.3-1
+  status: outdated
+  summary: A modern Python package and dependency manager supporting the latest PEP standards
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - MIT
+  categories:
+    - Development/Python
 - repo: liguros_stable
   srcname: dev-python/pdm
   visiblename: dev-python/pdm
@@ -323,10 +339,10 @@
   srcname: python-pdm
   binname: python-pdm
   visiblename: python-pdm
-  version: 2.29.0
-  origversion: 2.29.0-1
+  version: 2.9.2
+  origversion: 2.9.2-1
   status: outdated
-  summary: A modern Python package and dependency manager supporting the latest PEP standards
+  summary: A modern Python package manager with PEP 582 support
   licenses:
     - MIT
 - repo: manjaro_testing
@@ -334,10 +350,10 @@
   srcname: python-pdm
   binname: python-pdm
   visiblename: python-pdm
-  version: 2.29.2
-  origversion: 2.29.2-1
+  version: 2.9.2
+  origversion: 2.9.2-1
   status: outdated
-  summary: A modern Python package and dependency manager supporting the latest PEP standards
+  summary: A modern Python package manager with PEP 582 support
   licenses:
     - MIT
 - repo: manjaro_unstable
@@ -362,6 +378,15 @@
     - cpcloud@github
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.23.1
+  origversion: 2.23.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_stable_24_11
   srcname: pdm
   visiblename: pdm
@@ -374,15 +399,6 @@
     - nixpkgs@natsukium.com
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.22.3
-  origversion: 2.22.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: nix_stable_25_05
   srcname: pdm
   visiblename: pdm
@@ -435,22 +451,6 @@
     - misileminecord@gmail.com
   licenses:
     - MIT
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: python-pdm
-  binnames:
-    - python-pdm
-  visiblename: python-pdm
-  version: 2.22.3
-  origversion: 2.22.3-1
-  status: outdated
-  summary: A modern Python package and dependency manager supporting the latest PEP standards
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - MIT
-  categories:
-    - Development/Python
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: python-pdm
@@ -467,20 +467,6 @@
     - MIT
   categories:
     - Development/Python
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: pdm
-  binnames:
-    - python3-pdm
-  visiblename: pdm
-  version: 2.23.1
-  origversion: 2.23.1-4
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - byang@debian.org
-  categories:
-    - universe/misc
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: python-pdm
@@ -696,6 +682,29 @@
   visiblename: pdm
   version: 2.20.1
   origversion: 2.20.1+ds1-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - byang@debian.org
+  categories:
+    - universe/misc
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.23.0
+  origversion: 2.23.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: pdm
+  binnames:
+    - python3-pdm
+  visiblename: pdm
+  version: 2.23.1
+  origversion: 2.23.1-4
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
@@ -981,8 +990,8 @@
   subrepo: dev
   binname: pdm
   visiblename: pdm
-  version: 2.24.1
-  origversion: 2.24.1-1~ops2deb
+  version: 2.22.4
+  origversion: 2.22.4-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -990,17 +999,8 @@
   subrepo: dev
   binname: pdm
   visiblename: pdm
-  version: 2.23.1
-  origversion: 2.23.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.23.0
-  origversion: 2.23.0-1~ops2deb
+  version: 2.22.3
+  origversion: 2.22.3-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
