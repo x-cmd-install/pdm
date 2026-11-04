@@ -14,11 +14,11 @@ x install pdm
 
 ## Code insight
 
-Total: **37,083** lines of code across **279** files in the top 5 languages.
+Total: **37,225** lines of code across **281** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 35,045 | 755 | 6,922 | 244 |
+| Python | 35,187 | 762 | 6,962 | 246 |
 | Toml | 741 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -33,27 +33,27 @@ Total: **37,083** lines of code across **279** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.29.5` (2026-10-30)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 8,659 · **Forks**: 514 · **Open issues**: 2,024 · **Contributors**: 285
+- **Stars**: 8,657 · **Forks**: 516 · **Open issues**: 2,024 · **Contributors**: 286
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 1374 · **Open PRs**: 10 · **Closed issues**: 1989 · **Open issues**: 35 · **Commits**: 3401
+- **Releases**: 255 · **Merged PRs**: 1375 · **Open PRs**: 10 · **Closed issues**: 1989 · **Open issues**: 35 · **Commits**: 3403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 54 | 3 | 21 | 0 | 49 |
-| last60d | 2026-09-04 | 5 | 72 | 5 | 28 | 0 | 69 |
-| 90d | 2026-08-05 | 8 | 102 | 5 | 35 | 0 | 109 |
-| last180d | 2026-05-07 | 11 | 134 | 7 | 50 | 0 | 144 |
-| 360d | 2025-11-08 | 18 | 183 | 8 | 88 | 3 | 222 |
-| last720d | 2024-11-13 | 41 | 336 | 9 | 250 | 13 | 470 |
+| 30d | 2026-10-05 | 3 | 54 | 3 | 21 | 0 | 51 |
+| last60d | 2026-09-05 | 5 | 73 | 5 | 28 | 0 | 71 |
+| 90d | 2026-08-06 | 8 | 102 | 5 | 35 | 0 | 111 |
+| last180d | 2026-05-08 | 11 | 134 | 7 | 49 | 0 | 146 |
+| 360d | 2025-11-09 | 18 | 184 | 8 | 88 | 3 | 224 |
+| last720d | 2024-11-14 | 41 | 335 | 9 | 247 | 12 | 470 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Total: **37,083** lines of code across **279** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **104** distros on [repology.org](https://repology.org/project/pdm). **8** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+Reported by **105** distros on [repology.org](https://repology.org/project/pdm). **9** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:03:48Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:36:50Z._
