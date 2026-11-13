@@ -14,11 +14,11 @@ x install pdm
 
 ## Code insight
 
-Total: **37,421** lines of code across **283** files in the top 5 languages.
+Total: **37,436** lines of code across **283** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 35,383 | 772 | 7,008 | 248 |
+| Python | 35,398 | 772 | 7,010 | 248 |
 | Toml | 741 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.29.7` (2026-11-06)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-13
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 8,674 · **Forks**: 523 · **Open issues**: 2,028 · **Contributors**: 289
+- **Stars**: 8,681 · **Forks**: 524 · **Open issues**: 2,028 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 1382 · **Open PRs**: 11 · **Closed issues**: 1993 · **Open issues**: 35 · **Commits**: 3415
+- **Releases**: 257 · **Merged PRs**: 1383 · **Open PRs**: 11 · **Closed issues**: 1993 · **Open issues**: 35 · **Commits**: 3416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 5 | 52 | 3 | 16 | 1 | 58 |
-| last60d | 2026-09-13 | 7 | 73 | 5 | 29 | 1 | 75 |
-| 90d | 2026-08-14 | 9 | 107 | 6 | 36 | 1 | 112 |
-| last180d | 2026-05-16 | 12 | 141 | 7 | 50 | 1 | 158 |
-| 360d | 2025-11-17 | 20 | 189 | 9 | 86 | 4 | 232 |
-| last720d | 2024-11-22 | 43 | 336 | 10 | 244 | 13 | 477 |
+| 30d | 2026-10-14 | 5 | 51 | 3 | 14 | 1 | 59 |
+| last60d | 2026-09-14 | 7 | 74 | 5 | 28 | 1 | 76 |
+| 90d | 2026-08-15 | 9 | 106 | 6 | 34 | 1 | 113 |
+| last180d | 2026-05-17 | 12 | 142 | 7 | 50 | 1 | 159 |
+| 360d | 2025-11-18 | 20 | 189 | 9 | 86 | 4 | 233 |
+| last720d | 2024-11-23 | 43 | 335 | 10 | 243 | 13 | 475 |
 
 ## Release assets
 
@@ -82,11 +82,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **105** distros on [repology.org](https://repology.org/project/pdm). **7** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+Reported by **104** distros on [repology.org](https://repology.org/project/pdm). **11** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.29.5` | ⚠️ outdated |
+| Debian unstable | `2.29.7` | ✅ latest |
 | Debian 14 | `2.29.5` | ⚠️ outdated |
 | Debian 13 | `2.20.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
@@ -104,4 +104,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T05:30:21Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T04:47:59Z._
