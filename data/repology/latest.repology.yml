@@ -2,8 +2,98 @@
   subrepo: dev
   binname: pdm
   visiblename: pdm
-  version: 2.29.3
-  origversion: 2.29.3-1~ops2deb
+  version: 2.25.5
+  origversion: 2.25.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.25.4
+  origversion: 2.25.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.25.3
+  origversion: 2.25.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.25.2
+  origversion: 2.25.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.25.1
+  origversion: 2.25.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.25.0
+  origversion: 2.25.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.24.2
+  origversion: 2.24.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.24.1
+  origversion: 2.24.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.23.1
+  origversion: 2.23.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.23.0
+  origversion: 2.23.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.22.4
+  origversion: 2.22.4-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -53,8 +143,8 @@
   srcname: python-pdm
   binname: python-pdm
   visiblename: python-pdm
-  version: 2.29.4
-  origversion: 2.29.4-1
+  version: 2.29.5
+  origversion: 2.29.5-1
   status: outdated
   summary: A modern Python package and dependency manager supporting the latest PEP standards
   licenses:
@@ -323,6 +413,15 @@
   summary: A modern Python package and dependency manager supporting the latest PEP standards
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
+  version: 2.25.6
+  origversion: 2.25.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_stable_24_05
   srcname: pdm
   visiblename: pdm
@@ -747,6 +846,15 @@
   subrepo: dev
   binname: pdm
   visiblename: pdm
+  version: 2.29.3
+  origversion: 2.29.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: pdm
+  visiblename: pdm
   version: 2.29.2
   origversion: 2.29.2-1~ops2deb
   status: legacy
@@ -902,114 +1010,6 @@
   visiblename: pdm
   version: 2.25.7
   origversion: 2.25.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.6
-  origversion: 2.25.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.5
-  origversion: 2.25.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.4
-  origversion: 2.25.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.3
-  origversion: 2.25.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.2
-  origversion: 2.25.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.1
-  origversion: 2.25.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.25.0
-  origversion: 2.25.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.24.2
-  origversion: 2.24.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.24.1
-  origversion: 2.24.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.23.1
-  origversion: 2.23.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.23.0
-  origversion: 2.23.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: pdm
-  visiblename: pdm
-  version: 2.22.4
-  origversion: 2.22.4-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
