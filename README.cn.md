@@ -14,11 +14,11 @@ x install pdm
 
 ## 代码洞察
 
-合计: **37,655** 行代码（覆盖前 5 种语言、共 **284** 个文件）。
+合计: **37,978** 行代码（覆盖前 5 种语言、共 **285** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 35,617 | 780 | 7,053 | 249 |
+| Python | 35,940 | 780 | 7,100 | 250 |
 | Toml | 741 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -43,27 +43,27 @@ x install pdm
 ## 发布
 
 - **最新版本**: `2.29.7` (2026-11-06)
-- **最近提交**: 2026-11-25
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 8,691 · **Fork**: 534 · **开放 issue**: 2,035 · **贡献者**: 295
+- **Star**: 8,697 · **Fork**: 536 · **开放 issue**: 2,039 · **贡献者**: 297
 
 ## 累计统计
 
-- **发布数**: 257 · **已合并 PR**: 1394 · **开放 PR**: 12 · **已关闭 issue**: 1998 · **开放 issue**: 37 · **提交数**: 3427
+- **发布数**: 257 · **已合并 PR**: 1395 · **开放 PR**: 14 · **已关闭 issue**: 1999 · **开放 issue**: 40 · **提交数**: 3428
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 44 | 4 | 9 | 4 | 41 |
-| last60d | 2026-09-26 | 5 | 80 | 5 | 28 | 4 | 94 |
-| 90d | 2026-08-27 | 8 | 104 | 7 | 37 | 4 | 114 |
-| last180d | 2026-05-29 | 11 | 148 | 8 | 49 | 4 | 171 |
-| 360d | 2025-11-30 | 19 | 196 | 10 | 88 | 7 | 243 |
-| last720d | 2024-12-05 | 42 | 337 | 11 | 238 | 13 | 467 |
+| 30d | 2026-10-27 | 4 | 42 | 6 | 9 | 8 | 42 |
+| last60d | 2026-09-27 | 5 | 81 | 7 | 28 | 8 | 95 |
+| 90d | 2026-08-28 | 8 | 100 | 9 | 36 | 8 | 115 |
+| last180d | 2026-05-30 | 11 | 149 | 10 | 49 | 8 | 172 |
+| 360d | 2025-12-01 | 19 | 195 | 12 | 87 | 10 | 244 |
+| last720d | 2024-12-06 | 42 | 334 | 13 | 232 | 17 | 467 |
 
 ## Release 资产
 
@@ -80,21 +80,6 @@ x install pdm
 | [pdm-2.29.7-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-x86_64-unknown-linux-gnu.tar.gz) | 21.2 MiB | `native/linux/x64/glibc` |
 | [pdm-2.29.7-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/pdm-project/pdm/releases/download/2.29.7/pdm-2.29.7-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/pdm) 上共有 **104** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**34** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.29.7` | ✅ latest |
-| Debian 14 | `2.29.7` | ✅ latest |
-| Debian 13 | `2.20.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.23.1` | ⚠️ outdated |
-| Arch | `2.29.7` | ✅ latest |
-| Homebrew | `2.29.7` | ✅ latest |
-| Nix unstable | `2.27.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.28.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 pdm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `pdm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +89,4 @@ pdm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T06:43:32Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T06:35:07Z._
