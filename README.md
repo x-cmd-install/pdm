@@ -14,11 +14,11 @@ x install pdm
 
 ## Code insight
 
-Total: **37,978** lines of code across **285** files in the top 5 languages.
+Total: **38,092** lines of code across **285** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 35,940 | 780 | 7,100 | 250 |
+| Python | 36,054 | 783 | 7,119 | 250 |
 | Toml | 741 | 17 | 110 | 25 |
 | Sh | 314 | 44 | 65 | 1 |
 | PowerShell | 272 | 80 | 68 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.29.7` (2026-11-06)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 8,697 · **Forks**: 536 · **Open issues**: 2,039 · **Contributors**: 297
+- **Stars**: 8,710 · **Forks**: 538 · **Open issues**: 2,039 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 1395 · **Open PRs**: 14 · **Closed issues**: 1999 · **Open issues**: 40 · **Commits**: 3428
+- **Releases**: 257 · **Merged PRs**: 1399 · **Open PRs**: 13 · **Closed issues**: 2003 · **Open issues**: 36 · **Commits**: 3432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 4 | 42 | 6 | 9 | 8 | 42 |
-| last60d | 2026-09-27 | 5 | 81 | 7 | 28 | 8 | 95 |
-| 90d | 2026-08-28 | 8 | 100 | 9 | 36 | 8 | 115 |
-| last180d | 2026-05-30 | 11 | 149 | 10 | 49 | 8 | 172 |
-| 360d | 2025-12-01 | 19 | 195 | 12 | 87 | 10 | 244 |
-| last720d | 2024-12-06 | 42 | 334 | 13 | 232 | 17 | 467 |
+| 30d | 2026-10-28 | 3 | 41 | 5 | 12 | 4 | 46 |
+| last60d | 2026-09-28 | 5 | 85 | 6 | 32 | 4 | 99 |
+| 90d | 2026-08-29 | 8 | 103 | 8 | 40 | 4 | 119 |
+| last180d | 2026-05-31 | 11 | 153 | 9 | 53 | 4 | 176 |
+| 360d | 2025-12-02 | 19 | 199 | 11 | 90 | 6 | 248 |
+| last720d | 2024-12-07 | 42 | 338 | 12 | 236 | 13 | 462 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T06:35:06Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T06:25:07Z._
