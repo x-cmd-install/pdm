@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,710 · **Forks**: 538 · **Open issues**: 2,039 · **Contributors**: 299
+- **Stars**: 8,715 · **Forks**: 538 · **Open issues**: 2,039 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 1399 · **Open PRs**: 13 · **Closed issues**: 2003 · **Open issues**: 36 · **Commits**: 3432
+- **Releases**: 257 · **Merged PRs**: 1399 · **Open PRs**: 14 · **Closed issues**: 2003 · **Open issues**: 36 · **Commits**: 3432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 41 | 5 | 12 | 4 | 46 |
-| last60d | 2026-09-28 | 5 | 85 | 6 | 32 | 4 | 99 |
-| 90d | 2026-08-29 | 8 | 103 | 8 | 40 | 4 | 119 |
-| last180d | 2026-05-31 | 11 | 153 | 9 | 53 | 4 | 176 |
-| 360d | 2025-12-02 | 19 | 199 | 11 | 90 | 6 | 248 |
-| last720d | 2024-12-07 | 42 | 338 | 12 | 236 | 13 | 462 |
+| 30d | 2026-10-29 | 3 | 37 | 6 | 12 | 4 | 46 |
+| last60d | 2026-09-29 | 5 | 84 | 7 | 32 | 4 | 99 |
+| 90d | 2026-08-30 | 7 | 102 | 9 | 39 | 4 | 119 |
+| last180d | 2026-06-01 | 11 | 151 | 10 | 53 | 4 | 176 |
+| 360d | 2025-12-03 | 19 | 199 | 12 | 90 | 6 | 248 |
+| last720d | 2024-12-08 | 42 | 338 | 13 | 236 | 13 | 462 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pdm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T06:25:07Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T06:00:50Z._
